@@ -1,5 +1,5 @@
 @echo off
-cd C:\Users\ff\Desktop\XiaoaiM
+cd C:\Users\HP\Desktop\XiaoaiM
 git add .
-git commit -m "Sean add something new"
+git commit -m "HuiHui add something new"
 git push origin master

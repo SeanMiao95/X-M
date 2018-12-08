@@ -1,3 +1,3 @@
 @echo off
-cd C:\Users\ff\Desktop\XiaoaiM
+cd C:\Users\HP\Desktop\XiaoaiM
 git pull origin master
