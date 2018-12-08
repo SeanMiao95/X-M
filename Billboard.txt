@@ -1,7 +1,3 @@
 HuiHui:
        
-<<<<<<< HEAD
-       I am pleasure to share my life with you!haha
-=======
-       I am pleasure to share my life with you!
->>>>>>> dfde04e7c4319f9a6177ff84fd306482c6280de6
+       I am pleasure to share my life with you! good night
